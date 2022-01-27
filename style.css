@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     background-color: cadetblue;
 }
@@ -44,57 +43,4 @@ h1.delanteros{
     width:fit-content;
     height: fit-content;
     font-family: 'Dongle', sans-serif;
-}
-section.porteros{
-    border:darkgreen;
-=======
-body{
-    background-color: cadetblue;
-}
-h1.header{
-    color: orange;
-    font-weight: bold;
-    text-align: center;
-    background-color: black;
-    font-family: 'Dongle', sans-serif;
-}
-h1.porteros{
-    color: orange;
-    font-weight: bold;
-    background-color: black;
-    font-family: 'Dongle',sans-serif;
-    width:fit-content;
-    height: fit-content;
-    font-family: 'Dongle', sans-serif;
-}
-h1.defensas{
-    color: orange;
-    font-weight: bold;
-    background-color: black;
-    font-family: 'Dongle',sans-serif;
-    width:fit-content;
-    height: fit-content;
-    font-family: 'Dongle', sans-serif;
-}
-h1.centrocampistas{
-    color: orange;
-    font-weight: bold;
-    background-color: black;
-    font-family: 'Dongle',sans-serif;
-    width:fit-content;
-    height: fit-content;
-    font-family: 'Dongle', sans-serif;
-}
-h1.delanteros{
-    color: orange;
-    font-weight: bold;
-    background-color: black;
-    font-family: 'Dongle',sans-serif;
-    width:fit-content;
-    height: fit-content;
-    font-family: 'Dongle', sans-serif;
-}
-section.porteros{
-    border:darkgreen;
->>>>>>> 23901eb79b6b70215c0a995f3bae2f904c3a21cc
 }
